@@ -1,0 +1,4 @@
+{
+	"presets": [["es2015", { "modules": false }], ["stage-2"]]
+	// "plugins": ["./node_modules/@babel/plugin-transform-runtime"]
+}
